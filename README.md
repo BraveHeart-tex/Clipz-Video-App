@@ -1,4 +1,23 @@
-# Clips
+# Clips LIVE DEMO
+Check out the live, fully functionaly demo on Vercel by clicking [here](https://clipz-video-mwkkz3xp5-braveheart-tex.vercel.app/)
+
+## Technologies Used
+
+1. Angular
+2. RxJs
+3. Typescript
+4. Ffmpeg for processing videos
+5. Video.js for customizing the video player
+6. Tailwind CSS for styling
+7. Firebase - Firestore
+
+### Features
+1. Routing
+2. Lazy Loading
+3. Interactive UI
+4. Authentication
+5. CREATE - READ - UPDATE and DELETE videos
+6. and more...
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
