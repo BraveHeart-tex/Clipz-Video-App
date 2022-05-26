@@ -1,0 +1,42 @@
+import { TabComponent } from './../tab/tab.component';
+import {
+  Component,
+  AfterContentInit,
+  ContentChildren,
+  QueryList,
+} from '@angular/core';
+
+@Component({
+  selector: 'app-tabs-container',
+  templateUrl: './tabs-container.component.html',
+  styleUrls: ['./tabs-container.component.css'],
+})
+
+// Tabs container will control tabs
+export class TabsContainerComponent implements AfterContentInit {
+  @ContentChildren(TabComponent) tabs: QueryList<TabComponent> =
+    new QueryList();
+
+  constructor() {}
+
+  ngAfterContentInit(): void {
+    const activeTabs = this.tabs?.filter((tab) => tab.active);
+    if (!activeTabs || activeTabs.length === 0) {
+      this.selectTab(this.tabs!.first);
+    }
+  }
+
+  selectTab(tab: TabComponent) {
+    // set each tab's active prop to false
+    // to prevent having 2 active tabs
+    this.tabs.forEach((tab) => {
+      tab.active = false;
+    });
+
+    tab.active = true;
+
+    // prevent the default behaviour
+    return false;
+  }
+}
+// 91 Prep forms
