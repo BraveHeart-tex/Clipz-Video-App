@@ -1,5 +1,5 @@
 # Clips LIVE DEMO
-Check out the live, fully functionaly demo on Vercel by clicking [here](https://clipz-video-mwkkz3xp5-braveheart-tex.vercel.app/)
+Check out the live, fully-functionaly demo on Vercel by clicking [here](https://clipz-video-mwkkz3xp5-braveheart-tex.vercel.app/)
 
 ## Technologies Used
 
