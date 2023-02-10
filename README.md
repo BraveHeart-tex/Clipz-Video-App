@@ -36,7 +36,7 @@ The following technologies are used in this project:
 <img src="https://i.hizliresim.com/thjc82m.png" alt="Desktop single video page"/>
 
 ### Desktop About Page
-<img src="https://i.hizliresim.com/dlkaysz.png" alt="Desktop single video page"/>
+<img src="https://i.hizliresim.com/dlkaysz.png" alt="Desktop about page"/>
 
 <hr/>
 
