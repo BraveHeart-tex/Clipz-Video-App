@@ -26,6 +26,17 @@ The following technologies are used in this project:
 
 ## SHOWCASE
 
+### Desktop Home Page
+<img src="https://i.hizliresim.com/ji0gicu.png" alt="Desktop home page"/>
+
+### Desktop Videos (Latest) Page
+<img src="https://i.hizliresim.com/qewmud3.png" alt="Desktop videos page"/>
+
+### Desktop Single Video Page
+<img src="https://i.hizliresim.com/thjc82m.png" alt="Desktop single video page"/>
+
+### Desktop About Page
+<img src="https://i.hizliresim.com/dlkaysz.png" alt="Desktop single video page"/>
 
 <hr/>
 
