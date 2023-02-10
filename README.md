@@ -38,6 +38,16 @@ The following technologies are used in this project:
 ### Desktop About Page
 <img src="https://i.hizliresim.com/dlkaysz.png" alt="Desktop about page"/>
 
+### Mobile Videos (Latest) Page
+<img src="https://i.hizliresim.com/l8ydbza.png" alt="Mobile videos page"/>
+
+### Mobile Single Video Page
+<img src="https://i.hizliresim.com/tlw39x2.png" alt="Mobile single video page"/>
+
+### Mobile About Page
+<img src="https://i.hizliresim.com/77t18t0.png" alt="Mobile single video page"/>
+
+
 <hr/>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
